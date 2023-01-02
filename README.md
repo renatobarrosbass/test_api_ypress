@@ -1,2 +1,2 @@
-# test_api_ypress
+# test_api_cypress
 Testes de API utilizando framework cypress
